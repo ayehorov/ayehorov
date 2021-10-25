@@ -1,4 +1,4 @@
-![My Banner]()
+![My Banner](GitHub Banner.png)
 About me 👋
 
 - 👀 Passionate computer builder and Software/IT Specialist. I enjoy building custom machines as 
