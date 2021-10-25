@@ -1,4 +1,4 @@
-![My Banner](GitHub Banner.png)
+![My Banner](https://github.com/ayehorov/ayehorov/blob/main/GitHub%20Banner.png?raw=true)
 
 About me 👋
 
